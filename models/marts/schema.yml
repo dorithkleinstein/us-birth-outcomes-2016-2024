@@ -1,0 +1,137 @@
+version: 2
+
+models:
+  - name: fct_birth_outcomes
+    description: >
+      Analytical fact table of US birth outcomes by state, race, and year (2016-2024).
+      Source: CDC WONDER Expanded Natality database.
+      Each row represents one state × mother's race × year combination.
+      Clinical flags added: low birth weight (<2500g) and preterm (<37 weeks).
+      Suppressed rows (small population cells) are retained with births = NULL
+      and is_suppressed = TRUE for transparency.
+    columns:
+      - name: state
+        description: Full state name
+        data_tests:
+          - not_null
+
+      - name: mother_race
+        description: Mother's single race category
+        data_tests:
+          - not_null
+          - accepted_values:
+              values:
+                - 'American Indian or Alaska Native'
+                - 'Asian'
+                - 'Black or African American'
+                - 'More than one race'
+                - 'Native Hawaiian or Other Pacific Islander'
+                - 'White'
+
+      - name: year
+        description: Birth year (2016-2024)
+        data_tests:
+          - not_null
+
+      - name: births
+        description: >
+          Total births for this group. NULL when suppressed by CDC
+          (fewer than 10 births in the cell).
+
+      - name: avg_birth_weight_grams
+        description: >
+          Average birth weight in grams.
+          Clinical threshold: <2500g = low birth weight (WHO/CDC definition).
+
+      - name: avg_gestational_age_weeks
+        description: >
+          Average gestational age in weeks (LMP-based).
+          Clinical threshold: <37 weeks = preterm (WHO/CDC definition).
+
+      - name: is_low_birth_weight_avg
+        description: >
+          TRUE if the group average birth weight is below 2500g.
+          Note: this flags groups where the AVERAGE is low, not individual births.
+
+      - name: is_preterm_avg
+        description: >
+          TRUE if the group average gestational age is below 37 weeks.
+          Note: this flags groups where the AVERAGE is preterm, not individual births.
+
+      - name: is_suppressed
+        description: TRUE when births is NULL (CDC suppressed the count).
+
+  - name: fct_birth_outcomes_education
+    description: >
+      Analytical fact table of US birth outcomes by state, race, education level,
+      and year (2016-2024). Source: CDC WONDER Expanded Natality database.
+      Each row represents one state × mother's race × education level × year combination.
+      Clinical flags added: low birth weight (<2500g) and preterm (<37 weeks).
+      Suppressed rows (small population cells) are retained with births = NULL
+      and is_suppressed = TRUE for transparency.
+    columns:
+      - name: state
+        description: Full state name
+        data_tests:
+          - not_null
+
+      - name: mother_race
+        description: Mother's single race category
+        data_tests:
+          - not_null
+          - accepted_values:
+              values:
+                - 'American Indian or Alaska Native'
+                - 'Asian'
+                - 'Black or African American'
+                - 'More than one race'
+                - 'Native Hawaiian or Other Pacific Islander'
+                - 'White'
+
+      - name: education
+        description: Mother's highest education level (CDC WONDER full label)
+        data_tests:
+          - not_null
+
+      - name: education_label
+        description: Short display label for charts (e.g. Bachelor's, HS / GED)
+        data_tests:
+          - not_null
+
+      - name: education_code
+        description: Numeric education code (1=lowest through 8=highest); use for sort order in charts
+        data_tests:
+          - not_null
+
+      - name: year
+        description: Birth year (2016-2024)
+        data_tests:
+          - not_null
+
+      - name: births
+        description: >
+          Total births for this group. NULL when suppressed by CDC
+          (fewer than 10 births in the cell).
+
+      - name: avg_birth_weight_grams
+        description: >
+          Average birth weight in grams.
+          Clinical threshold: <2500g = low birth weight (WHO/CDC definition).
+
+      - name: avg_gestational_age_weeks
+        description: >
+          Average gestational age in weeks (LMP-based).
+          Clinical threshold: <37 weeks = preterm (WHO/CDC definition).
+
+      - name: is_low_birth_weight_avg
+        description: >
+          TRUE if the group average birth weight is below 2500g.
+          Note: this flags groups where the AVERAGE is low, not individual births.
+
+      - name: is_preterm_avg
+        description: >
+          TRUE if the group average gestational age is below 37 weeks.
+          Note: this flags groups where the AVERAGE is preterm, not individual births.
+
+      - name: is_suppressed
+        description: TRUE when births is NULL (CDC suppressed the count).
