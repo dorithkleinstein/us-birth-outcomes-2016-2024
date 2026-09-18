@@ -77,6 +77,105 @@ models:
       - name: avg_gestational_age_weeks
         description: Average gestational age in weeks (LMP-based).
 
+  - name: stg_births_education_age
+    description: >
+      Cleaned and typed CDC WONDER natality data with mother's education and age
+      dimension (2016-2024). One row per state × mother's race × education level
+      × age cohort × year combination. Births is NULL where CDC suppressed the
+      value (small population cell). Source seed:
+      births_by_state_race_education_age_year.csv
+    columns:
+      - name: region
+        description: US Census Region (Northeast, Midwest, South, West)
+        data_tests:
+          - not_null
+
+      - name: state
+        description: Full state name
+        data_tests:
+          - not_null
+
+      - name: state_code
+        description: Two-digit FIPS state code
+        data_tests:
+          - not_null
+
+      - name: mother_race
+        description: Mother's single race category (CDC WONDER classification)
+        data_tests:
+          - not_null
+          - accepted_values:
+              values:
+                - 'American Indian or Alaska Native'
+                - 'Asian'
+                - 'Black or African American'
+                - 'More than one race'
+                - 'Native Hawaiian or Other Pacific Islander'
+                - 'White'
+
+      - name: education
+        description: Mother's highest education level (CDC WONDER full label)
+        data_tests:
+          - not_null
+
+      - name: education_label
+        description: >
+          Short display label for charts (e.g. Bachelor's, HS / GED).
+          Same mapping as stg_births_education.
+        data_tests:
+          - not_null
+
+      - name: education_code
+        description: Numeric education code (1=lowest through 8=highest; use for sort order)
+        data_tests:
+          - not_null
+
+      - name: age_of_mother
+        description: >
+          CDC full label for mother's 5-year age cohort
+          (e.g. '25-29 years', 'Under 15 years', '50 years and over').
+        data_tests:
+          - not_null
+          - accepted_values:
+              values:
+                - 'Under 15 years'
+                - '15-19 years'
+                - '20-24 years'
+                - '25-29 years'
+                - '30-34 years'
+                - '35-39 years'
+                - '40-44 years'
+                - '45-49 years'
+                - '50 years and over'
+
+      - name: age_label
+        description: >
+          Short display label for age cohort charts
+          (e.g. '25-29', '< 15', '50+').
+        data_tests:
+          - not_null
+
+      - name: age_order
+        description: >
+          Integer sort order for age cohorts (1=Under 15 through 9=50+).
+          Use instead of age_of_mother_code, which is not cleanly numeric.
+        data_tests:
+          - not_null
+
+      - name: year
+        description: Birth year (2016-2024)
+        data_tests:
+          - not_null
+
+      - name: births
+        description: Total births. NULL when CDC suppressed value (cell < 10 births).
+
+      - name: avg_birth_weight_grams
+        description: Average birth weight in grams for this group.
+
+      - name: avg_gestational_age_weeks
+        description: Average gestational age in weeks (LMP-based).
+
   - name: stg_births
     description: >
       Cleaned and typed CDC WONDER natality data (2016-2024).

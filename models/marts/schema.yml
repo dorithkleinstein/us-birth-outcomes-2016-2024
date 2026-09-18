@@ -1,6 +1,88 @@
 version: 2
 
 models:
+  - name: fct_birth_outcomes_education_age
+    description: >
+      Analytical fact table of US birth outcomes by state, race, education level,
+      age cohort, and year (2016-2024). Source: CDC WONDER Natality database.
+      Each row represents one state × race × education × age cohort × year combination.
+      Clinical flags: low birth weight (<2500g), preterm (<37 weeks).
+      Transparency flags: is_suppressed (CDC suppressed count), is_reliable (births >= 25).
+      The is_reliable flag is especially important for this table: the five-way
+      intersection creates many thin cells that clear CDC suppression but are
+      still statistically noisy. Use it to dim or exclude unreliable cells in
+      visualizations.
+    columns:
+      - name: state
+        description: Full state name
+        data_tests:
+          - not_null
+
+      - name: mother_race
+        description: Mother's single race category
+        data_tests:
+          - not_null
+          - accepted_values:
+              values:
+                - 'American Indian or Alaska Native'
+                - 'Asian'
+                - 'Black or African American'
+                - 'More than one race'
+                - 'Native Hawaiian or Other Pacific Islander'
+                - 'White'
+
+      - name: education
+        description: Mother's highest education level (CDC WONDER full label)
+        data_tests:
+          - not_null
+
+      - name: education_label
+        description: Short display label for charts (e.g. Bachelor's, HS / GED)
+        data_tests:
+          - not_null
+
+      - name: education_code
+        description: Numeric education code (1=lowest through 8=highest); use for sort order
+        data_tests:
+          - not_null
+
+      - name: age_of_mother
+        description: CDC full label for mother's 5-year age cohort
+        data_tests:
+          - not_null
+
+      - name: age_label
+        description: Short display label for age cohort charts (e.g. '25-29', '< 15', '50+')
+        data_tests:
+          - not_null
+
+      - name: age_order
+        description: Integer sort order for age cohorts (1=Under 15 through 9=50+)
+        data_tests:
+          - not_null
+
+      - name: year
+        description: Birth year (2016-2024)
+        data_tests:
+          - not_null
+
+      - name: births
+        description: Total births. NULL when suppressed by CDC (fewer than 10 births in cell).
+
+      - name: avg_birth_weight_grams
+        description: "Average birth weight in grams. Clinical threshold: <2500g = low birth weight."
+
+      - name: avg_gestational_age_weeks
+        description: "Average gestational age in weeks (LMP-based). Clinical threshold: <37 weeks = preterm."
+
+      - name: is_suppressed
+        description: TRUE when births is NULL (CDC suppressed the count).
+
+      - name: is_reliable
+        description: >
+          TRUE when births >= 25. Cells below this threshold clear CDC suppression
+          but still produce noisy averages. Use to filter or dim in visualizations.
+
   - name: fct_birth_outcomes
     description: >
       Analytical fact table of US birth outcomes by state, race, and year (2016-2024).
