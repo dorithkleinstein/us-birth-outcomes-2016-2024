@@ -99,7 +99,7 @@ dbt test
 
 No credentials are in this repository. The connection lives in your own `~/.dbt/profiles.yml`.
 
-The seeds are already in `seeds/`, so step 1 is optional. `pull/` is there if you want to rebuild the seeds from the original extracts, or to check that the seeds match what CDC actually returned.
+The seeds are already in `seeds/`, so there is nothing to re-pull. `pull/` is there if you want to rebuild the seeds from the original extracts, or to check that the seeds match what CDC actually returned.
 
 ## Source and citation
 
