@@ -77,8 +77,11 @@ models/staging/     5 models, materialized as views
 models/marts/       6 models, materialized as tables
 models/*/schema.yml column descriptions and tests
 seeds/              6 CSVs loaded by dbt seed
-pull/               the 55 CDC WONDER extracts, unmodified
+pull/               the 55 CDC WONDER extracts
+validation/         a notebook that tests one of the findings
 ```
+
+`validation/` holds a difference-in-differences check on the party-switch claim, which replaces an indirect argument in the original analysis with a direct measurement. It has its own README.
 
 Tests are `not_null` and `accepted_values` on the dimensions. One `accepted_values` test is deliberately omitted and the omission is commented where it happens: dbt generates broken SQL for values containing apostrophes, which the education labels do, so the model filters invalid categories instead.
 
