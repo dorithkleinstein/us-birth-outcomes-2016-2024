@@ -1,0 +1,460 @@
+state_name,state_fips,year,governor_party,governor_notes
+Alabama,01,2016,Republican,
+Alabama,01,2017,Republican,
+Alabama,01,2018,Republican,
+Alabama,01,2019,Republican,
+Alabama,01,2020,Republican,
+Alabama,01,2021,Republican,
+Alabama,01,2022,Republican,
+Alabama,01,2023,Republican,
+Alabama,01,2024,Republican,
+Alaska,02,2016,Independent,Bill Walker (Independent)
+Alaska,02,2017,Independent,Bill Walker (Independent)
+Alaska,02,2018,Independent,Walker dropped out Oct 2018; Dunleavy (R) won but took office Dec 3 — assigned Independent for majority of year
+Alaska,02,2019,Republican,Mike Dunleavy (R) from Dec 2018
+Alaska,02,2020,Republican,
+Alaska,02,2021,Republican,
+Alaska,02,2022,Republican,
+Alaska,02,2023,Republican,
+Alaska,02,2024,Republican,
+Arizona,04,2016,Republican,Doug Ducey
+Arizona,04,2017,Republican,
+Arizona,04,2018,Republican,
+Arizona,04,2019,Republican,
+Arizona,04,2020,Republican,
+Arizona,04,2021,Republican,
+Arizona,04,2022,Republican,
+Arizona,04,2023,Democratic,Katie Hobbs took office Jan 2 2023
+Arizona,04,2024,Democratic,
+Arkansas,05,2016,Republican,Asa Hutchinson
+Arkansas,05,2017,Republican,
+Arkansas,05,2018,Republican,
+Arkansas,05,2019,Republican,
+Arkansas,05,2020,Republican,
+Arkansas,05,2021,Republican,
+Arkansas,05,2022,Republican,
+Arkansas,05,2023,Republican,Sarah Huckabee Sanders took office Jan 10 2023
+Arkansas,05,2024,Republican,
+California,06,2016,Democratic,Jerry Brown
+California,06,2017,Democratic,
+California,06,2018,Democratic,
+California,06,2019,Democratic,Gavin Newsom took office Jan 7 2019
+California,06,2020,Democratic,
+California,06,2021,Democratic,
+California,06,2022,Democratic,
+California,06,2023,Democratic,
+California,06,2024,Democratic,
+Colorado,08,2016,Democratic,John Hickenlooper
+Colorado,08,2017,Democratic,
+Colorado,08,2018,Democratic,
+Colorado,08,2019,Democratic,Jared Polis took office Jan 8 2019
+Colorado,08,2020,Democratic,
+Colorado,08,2021,Democratic,
+Colorado,08,2022,Democratic,
+Colorado,08,2023,Democratic,
+Colorado,08,2024,Democratic,
+Connecticut,09,2016,Democratic,Dan Malloy
+Connecticut,09,2017,Democratic,
+Connecticut,09,2018,Democratic,
+Connecticut,09,2019,Democratic,Ned Lamont took office Jan 9 2019
+Connecticut,09,2020,Democratic,
+Connecticut,09,2021,Democratic,
+Connecticut,09,2022,Democratic,
+Connecticut,09,2023,Democratic,
+Connecticut,09,2024,Democratic,
+Delaware,10,2016,Democratic,Jack Markell
+Delaware,10,2017,Democratic,John Carney took office Jan 17 2017
+Delaware,10,2018,Democratic,
+Delaware,10,2019,Democratic,
+Delaware,10,2020,Democratic,
+Delaware,10,2021,Democratic,
+Delaware,10,2022,Democratic,
+Delaware,10,2023,Democratic,
+Delaware,10,2024,Democratic,
+District of Columbia,11,2016,Democratic,Muriel Bowser (Mayor — no governor position)
+District of Columbia,11,2017,Democratic,
+District of Columbia,11,2018,Democratic,
+District of Columbia,11,2019,Democratic,
+District of Columbia,11,2020,Democratic,
+District of Columbia,11,2021,Democratic,
+District of Columbia,11,2022,Democratic,
+District of Columbia,11,2023,Democratic,
+District of Columbia,11,2024,Democratic,
+Florida,12,2016,Republican,Rick Scott
+Florida,12,2017,Republican,
+Florida,12,2018,Republican,
+Florida,12,2019,Republican,Ron DeSantis took office Jan 8 2019
+Florida,12,2020,Republican,
+Florida,12,2021,Republican,
+Florida,12,2022,Republican,
+Florida,12,2023,Republican,
+Florida,12,2024,Republican,
+Georgia,13,2016,Republican,Nathan Deal
+Georgia,13,2017,Republican,
+Georgia,13,2018,Republican,
+Georgia,13,2019,Republican,Brian Kemp took office Jan 14 2019
+Georgia,13,2020,Republican,
+Georgia,13,2021,Republican,
+Georgia,13,2022,Republican,
+Georgia,13,2023,Republican,
+Georgia,13,2024,Republican,
+Hawaii,15,2016,Democratic,David Ige
+Hawaii,15,2017,Democratic,
+Hawaii,15,2018,Democratic,
+Hawaii,15,2019,Democratic,
+Hawaii,15,2020,Democratic,
+Hawaii,15,2021,Democratic,
+Hawaii,15,2022,Democratic,
+Hawaii,15,2023,Democratic,Josh Green took office Dec 5 2022
+Hawaii,15,2024,Democratic,
+Idaho,16,2016,Republican,Butch Otter
+Idaho,16,2017,Republican,
+Idaho,16,2018,Republican,
+Idaho,16,2019,Republican,Brad Little took office Jan 7 2019
+Idaho,16,2020,Republican,
+Idaho,16,2021,Republican,
+Idaho,16,2022,Republican,
+Idaho,16,2023,Republican,
+Idaho,16,2024,Republican,
+Illinois,17,2016,Republican,Bruce Rauner
+Illinois,17,2017,Republican,
+Illinois,17,2018,Republican,
+Illinois,17,2019,Democratic,J.B. Pritzker took office Jan 14 2019
+Illinois,17,2020,Democratic,
+Illinois,17,2021,Democratic,
+Illinois,17,2022,Democratic,
+Illinois,17,2023,Democratic,
+Illinois,17,2024,Democratic,
+Indiana,18,2016,Republican,Mike Pence (until Jan 2017); Eric Holcomb elected Nov 2016
+Indiana,18,2017,Republican,Eric Holcomb took office Jan 9 2017
+Indiana,18,2018,Republican,
+Indiana,18,2019,Republican,
+Indiana,18,2020,Republican,
+Indiana,18,2021,Republican,
+Indiana,18,2022,Republican,
+Indiana,18,2023,Republican,
+Indiana,18,2024,Republican,
+Iowa,19,2016,Republican,Terry Branstad
+Iowa,19,2017,Republican,Kim Reynolds took over May 2017 (Branstad resigned to become ambassador)
+Iowa,19,2018,Republican,
+Iowa,19,2019,Republican,
+Iowa,19,2020,Republican,
+Iowa,19,2021,Republican,
+Iowa,19,2022,Republican,
+Iowa,19,2023,Republican,
+Iowa,19,2024,Republican,
+Kansas,20,2016,Republican,Sam Brownback
+Kansas,20,2017,Republican,
+Kansas,20,2018,Republican,Jeff Colyer (R) took over Jan 31 2018 after Brownback resigned
+Kansas,20,2019,Democratic,Laura Kelly took office Jan 14 2019
+Kansas,20,2020,Democratic,
+Kansas,20,2021,Democratic,
+Kansas,20,2022,Democratic,
+Kansas,20,2023,Democratic,
+Kansas,20,2024,Democratic,
+Kentucky,21,2016,Republican,Matt Bevin
+Kentucky,21,2017,Republican,
+Kentucky,21,2018,Republican,
+Kentucky,21,2019,Republican,Beshear won Nov 2019 but took office Dec 10 — Bevin for majority of year
+Kentucky,21,2020,Democratic,Andy Beshear
+Kentucky,21,2021,Democratic,
+Kentucky,21,2022,Democratic,
+Kentucky,21,2023,Democratic,
+Kentucky,21,2024,Democratic,
+Louisiana,22,2016,Democratic,John Bel Edwards took office Jan 11 2016
+Louisiana,22,2017,Democratic,
+Louisiana,22,2018,Democratic,
+Louisiana,22,2019,Democratic,
+Louisiana,22,2020,Democratic,
+Louisiana,22,2021,Democratic,
+Louisiana,22,2022,Democratic,
+Louisiana,22,2023,Democratic,
+Louisiana,22,2024,Republican,Jeff Landry took office Jan 8 2024
+Maine,23,2016,Republican,Paul LePage
+Maine,23,2017,Republican,
+Maine,23,2018,Republican,
+Maine,23,2019,Democratic,Janet Mills took office Jan 2 2019
+Maine,23,2020,Democratic,
+Maine,23,2021,Democratic,
+Maine,23,2022,Democratic,
+Maine,23,2023,Democratic,
+Maine,23,2024,Democratic,
+Maryland,24,2016,Republican,Larry Hogan
+Maryland,24,2017,Republican,
+Maryland,24,2018,Republican,
+Maryland,24,2019,Republican,
+Maryland,24,2020,Republican,
+Maryland,24,2021,Republican,
+Maryland,24,2022,Republican,
+Maryland,24,2023,Democratic,Wes Moore took office Jan 18 2023
+Maryland,24,2024,Democratic,
+Massachusetts,25,2016,Republican,Charlie Baker
+Massachusetts,25,2017,Republican,
+Massachusetts,25,2018,Republican,
+Massachusetts,25,2019,Republican,
+Massachusetts,25,2020,Republican,
+Massachusetts,25,2021,Republican,
+Massachusetts,25,2022,Republican,
+Massachusetts,25,2023,Democratic,Maura Healey took office Jan 5 2023
+Massachusetts,25,2024,Democratic,
+Michigan,26,2016,Republican,Rick Snyder
+Michigan,26,2017,Republican,
+Michigan,26,2018,Republican,
+Michigan,26,2019,Democratic,Gretchen Whitmer took office Jan 1 2019
+Michigan,26,2020,Democratic,
+Michigan,26,2021,Democratic,
+Michigan,26,2022,Democratic,
+Michigan,26,2023,Democratic,
+Michigan,26,2024,Democratic,
+Minnesota,27,2016,Democratic,Mark Dayton
+Minnesota,27,2017,Democratic,
+Minnesota,27,2018,Democratic,
+Minnesota,27,2019,Democratic,Tim Walz took office Jan 7 2019
+Minnesota,27,2020,Democratic,
+Minnesota,27,2021,Democratic,
+Minnesota,27,2022,Democratic,
+Minnesota,27,2023,Democratic,
+Minnesota,27,2024,Democratic,
+Mississippi,28,2016,Republican,Phil Bryant
+Mississippi,28,2017,Republican,
+Mississippi,28,2018,Republican,
+Mississippi,28,2019,Republican,
+Mississippi,28,2020,Republican,Tate Reeves took office Jan 14 2020
+Mississippi,28,2021,Republican,
+Mississippi,28,2022,Republican,
+Mississippi,28,2023,Republican,
+Mississippi,28,2024,Republican,
+Missouri,29,2016,Democratic,Jay Nixon (left office Jan 9 2017)
+Missouri,29,2017,Republican,Eric Greitens took office Jan 9 2017 (resigned June 2018)
+Missouri,29,2018,Republican,Mike Parson took over June 2018
+Missouri,29,2019,Republican,
+Missouri,29,2020,Republican,
+Missouri,29,2021,Republican,
+Missouri,29,2022,Republican,
+Missouri,29,2023,Republican,
+Missouri,29,2024,Republican,
+Montana,30,2016,Democratic,Steve Bullock
+Montana,30,2017,Democratic,
+Montana,30,2018,Democratic,
+Montana,30,2019,Democratic,
+Montana,30,2020,Democratic,
+Montana,30,2021,Republican,Greg Gianforte took office Jan 4 2021
+Montana,30,2022,Republican,
+Montana,30,2023,Republican,
+Montana,30,2024,Republican,
+Nebraska,31,2016,Republican,Pete Ricketts
+Nebraska,31,2017,Republican,
+Nebraska,31,2018,Republican,
+Nebraska,31,2019,Republican,
+Nebraska,31,2020,Republican,
+Nebraska,31,2021,Republican,
+Nebraska,31,2022,Republican,
+Nebraska,31,2023,Republican,Jim Pillen took office Jan 5 2023
+Nebraska,31,2024,Republican,
+Nevada,32,2016,Republican,Brian Sandoval
+Nevada,32,2017,Republican,
+Nevada,32,2018,Republican,
+Nevada,32,2019,Democratic,Steve Sisolak took office Jan 7 2019
+Nevada,32,2020,Democratic,
+Nevada,32,2021,Democratic,
+Nevada,32,2022,Democratic,
+Nevada,32,2023,Republican,Joe Lombardo took office Jan 2 2023
+Nevada,32,2024,Republican,
+New Hampshire,33,2016,Democratic,Maggie Hassan (left Jan 2017 for Senate)
+New Hampshire,33,2017,Republican,Chris Sununu took office Jan 5 2017
+New Hampshire,33,2018,Republican,
+New Hampshire,33,2019,Republican,
+New Hampshire,33,2020,Republican,
+New Hampshire,33,2021,Republican,
+New Hampshire,33,2022,Republican,
+New Hampshire,33,2023,Republican,
+New Hampshire,33,2024,Republican,
+New Jersey,34,2016,Republican,Chris Christie
+New Jersey,34,2017,Republican,
+New Jersey,34,2018,Democratic,Phil Murphy took office Jan 16 2018
+New Jersey,34,2019,Democratic,
+New Jersey,34,2020,Democratic,
+New Jersey,34,2021,Democratic,
+New Jersey,34,2022,Democratic,
+New Jersey,34,2023,Democratic,
+New Jersey,34,2024,Democratic,
+New Mexico,35,2016,Republican,Susana Martinez
+New Mexico,35,2017,Republican,
+New Mexico,35,2018,Republican,
+New Mexico,35,2019,Democratic,Michelle Lujan Grisham took office Jan 1 2019
+New Mexico,35,2020,Democratic,
+New Mexico,35,2021,Democratic,
+New Mexico,35,2022,Democratic,
+New Mexico,35,2023,Democratic,
+New Mexico,35,2024,Democratic,
+New York,36,2016,Democratic,Andrew Cuomo
+New York,36,2017,Democratic,
+New York,36,2018,Democratic,
+New York,36,2019,Democratic,
+New York,36,2020,Democratic,
+New York,36,2021,Democratic,Cuomo resigned Aug 2021; Kathy Hochul (D) took over Aug 24 2021
+New York,36,2022,Democratic,
+New York,36,2023,Democratic,
+New York,36,2024,Democratic,
+North Carolina,37,2016,Republican,Pat McCrory
+North Carolina,37,2017,Democratic,Roy Cooper took office Jan 1 2017
+North Carolina,37,2018,Democratic,
+North Carolina,37,2019,Democratic,
+North Carolina,37,2020,Democratic,
+North Carolina,37,2021,Democratic,
+North Carolina,37,2022,Democratic,
+North Carolina,37,2023,Democratic,
+North Carolina,37,2024,Democratic,
+North Dakota,38,2016,Republican,Jack Dalrymple (until Dec 15 2016); Doug Burgum (R) from Dec 15 2016
+North Dakota,38,2017,Republican,
+North Dakota,38,2018,Republican,
+North Dakota,38,2019,Republican,
+North Dakota,38,2020,Republican,
+North Dakota,38,2021,Republican,
+North Dakota,38,2022,Republican,
+North Dakota,38,2023,Republican,
+North Dakota,38,2024,Republican,
+Ohio,39,2016,Republican,John Kasich
+Ohio,39,2017,Republican,
+Ohio,39,2018,Republican,
+Ohio,39,2019,Republican,Mike DeWine took office Jan 14 2019
+Ohio,39,2020,Republican,
+Ohio,39,2021,Republican,
+Ohio,39,2022,Republican,
+Ohio,39,2023,Republican,
+Ohio,39,2024,Republican,
+Oklahoma,40,2016,Republican,Mary Fallin
+Oklahoma,40,2017,Republican,
+Oklahoma,40,2018,Republican,
+Oklahoma,40,2019,Republican,Kevin Stitt took office Jan 14 2019
+Oklahoma,40,2020,Republican,
+Oklahoma,40,2021,Republican,
+Oklahoma,40,2022,Republican,
+Oklahoma,40,2023,Republican,
+Oklahoma,40,2024,Republican,
+Oregon,41,2016,Democratic,Kate Brown
+Oregon,41,2017,Democratic,
+Oregon,41,2018,Democratic,
+Oregon,41,2019,Democratic,
+Oregon,41,2020,Democratic,
+Oregon,41,2021,Democratic,
+Oregon,41,2022,Democratic,
+Oregon,41,2023,Democratic,Tina Kotek took office Jan 9 2023
+Oregon,41,2024,Democratic,
+Pennsylvania,42,2016,Democratic,Tom Wolf
+Pennsylvania,42,2017,Democratic,
+Pennsylvania,42,2018,Democratic,
+Pennsylvania,42,2019,Democratic,
+Pennsylvania,42,2020,Democratic,
+Pennsylvania,42,2021,Democratic,
+Pennsylvania,42,2022,Democratic,
+Pennsylvania,42,2023,Democratic,Josh Shapiro took office Jan 17 2023
+Pennsylvania,42,2024,Democratic,
+Rhode Island,44,2016,Democratic,Gina Raimondo
+Rhode Island,44,2017,Democratic,
+Rhode Island,44,2018,Democratic,
+Rhode Island,44,2019,Democratic,
+Rhode Island,44,2020,Democratic,
+Rhode Island,44,2021,Democratic,Raimondo left Feb 2021 for Commerce Sec; Dan McKee (D) took over
+Rhode Island,44,2022,Democratic,
+Rhode Island,44,2023,Democratic,
+Rhode Island,44,2024,Democratic,
+South Carolina,45,2016,Republican,Nikki Haley (left Jan 2017 for UN Ambassador)
+South Carolina,45,2017,Republican,Henry McMaster took office Jan 24 2017
+South Carolina,45,2018,Republican,
+South Carolina,45,2019,Republican,
+South Carolina,45,2020,Republican,
+South Carolina,45,2021,Republican,
+South Carolina,45,2022,Republican,
+South Carolina,45,2023,Republican,
+South Carolina,45,2024,Republican,
+South Dakota,46,2016,Republican,Dennis Daugaard
+South Dakota,46,2017,Republican,
+South Dakota,46,2018,Republican,
+South Dakota,46,2019,Republican,Kristi Noem took office Jan 5 2019
+South Dakota,46,2020,Republican,
+South Dakota,46,2021,Republican,
+South Dakota,46,2022,Republican,
+South Dakota,46,2023,Republican,
+South Dakota,46,2024,Republican,
+Tennessee,47,2016,Republican,Bill Haslam
+Tennessee,47,2017,Republican,
+Tennessee,47,2018,Republican,
+Tennessee,47,2019,Republican,Bill Lee took office Jan 19 2019
+Tennessee,47,2020,Republican,
+Tennessee,47,2021,Republican,
+Tennessee,47,2022,Republican,
+Tennessee,47,2023,Republican,
+Tennessee,47,2024,Republican,
+Texas,48,2016,Republican,Greg Abbott
+Texas,48,2017,Republican,
+Texas,48,2018,Republican,
+Texas,48,2019,Republican,
+Texas,48,2020,Republican,
+Texas,48,2021,Republican,
+Texas,48,2022,Republican,
+Texas,48,2023,Republican,
+Texas,48,2024,Republican,
+Utah,49,2016,Republican,Gary Herbert
+Utah,49,2017,Republican,
+Utah,49,2018,Republican,
+Utah,49,2019,Republican,
+Utah,49,2020,Republican,
+Utah,49,2021,Republican,Spencer Cox took office Jan 4 2021
+Utah,49,2022,Republican,
+Utah,49,2023,Republican,
+Utah,49,2024,Republican,
+Vermont,50,2016,Democratic,Peter Shumlin (left Jan 5 2017)
+Vermont,50,2017,Republican,Phil Scott took office Jan 5 2017
+Vermont,50,2018,Republican,
+Vermont,50,2019,Republican,
+Vermont,50,2020,Republican,
+Vermont,50,2021,Republican,
+Vermont,50,2022,Republican,
+Vermont,50,2023,Republican,
+Vermont,50,2024,Republican,
+Virginia,51,2016,Democratic,Terry McAuliffe
+Virginia,51,2017,Democratic,
+Virginia,51,2018,Democratic,Ralph Northam took office Jan 13 2018
+Virginia,51,2019,Democratic,
+Virginia,51,2020,Democratic,
+Virginia,51,2021,Democratic,
+Virginia,51,2022,Republican,Glenn Youngkin took office Jan 15 2022
+Virginia,51,2023,Republican,
+Virginia,51,2024,Republican,
+Washington,53,2016,Democratic,Jay Inslee
+Washington,53,2017,Democratic,
+Washington,53,2018,Democratic,
+Washington,53,2019,Democratic,
+Washington,53,2020,Democratic,
+Washington,53,2021,Democratic,
+Washington,53,2022,Democratic,
+Washington,53,2023,Democratic,
+Washington,53,2024,Democratic,
+West Virginia,54,2016,Democratic,Earl Ray Tomblin (left Jan 16 2017)
+West Virginia,54,2017,Republican,Jim Justice took office Jan 16 2017 (switched from D to R Aug 2017)
+West Virginia,54,2018,Republican,
+West Virginia,54,2019,Republican,
+West Virginia,54,2020,Republican,
+West Virginia,54,2021,Republican,
+West Virginia,54,2022,Republican,
+West Virginia,54,2023,Republican,
+West Virginia,54,2024,Republican,
+Wisconsin,55,2016,Republican,Scott Walker
+Wisconsin,55,2017,Republican,
+Wisconsin,55,2018,Republican,
+Wisconsin,55,2019,Democratic,Tony Evers took office Jan 7 2019
+Wisconsin,55,2020,Democratic,
+Wisconsin,55,2021,Democratic,
+Wisconsin,55,2022,Democratic,
+Wisconsin,55,2023,Democratic,
+Wisconsin,55,2024,Democratic,
+Wyoming,56,2016,Republican,Matt Mead
+Wyoming,56,2017,Republican,
+Wyoming,56,2018,Republican,
+Wyoming,56,2019,Republican,Mark Gordon took office Jan 7 2019
+Wyoming,56,2020,Republican,
+Wyoming,56,2021,Republican,
+Wyoming,56,2022,Republican,
+Wyoming,56,2023,Republican,
+Wyoming,56,2024,Republican,

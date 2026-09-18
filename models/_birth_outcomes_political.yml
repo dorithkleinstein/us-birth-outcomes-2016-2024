@@ -1,0 +1,64 @@
+version: 2
+
+models:
+  - name: stg_political_control
+    description: "Governor party and president party by state and year (2016-2024). One row per state x year. Source: NGA historical governor records and US presidential history."
+    columns:
+      - name: state_name
+        tests:
+          - not_null
+      - name: year
+        tests:
+          - not_null
+      - name: governor_party
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['Democratic', 'Republican', 'Independent']
+      - name: president_party
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['Democratic', 'Republican']
+
+  - name: fct_birth_outcomes_with_party
+    description: "Birth outcomes (state x year x race x education x age group) joined to governor and president party. Use is_reliable = true to filter thin cells before aggregating. Primary source for political party correlation analysis in Tableau."
+    columns:
+      - name: state
+        tests:
+          - not_null
+      - name: year
+        tests:
+          - not_null
+      - name: governor_party
+        tests:
+          - accepted_values:
+              values: ['Democratic', 'Republican', 'Independent']
+
+seeds:
+  - name: political_control_by_state_year
+    description: "Governor party by state and year. Source: NGA historical records."
+    columns:
+      - name: state_name
+        tests:
+          - not_null
+      - name: year
+        tests:
+          - not_null
+      - name: governor_party
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['Democratic', 'Republican', 'Independent']
+
+  - name: political_control_national_by_year
+    description: US President name and party by year (2016-2024).
+    columns:
+      - name: year
+        tests:
+          - not_null
+      - name: president_party
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['Democratic', 'Republican']
