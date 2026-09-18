@@ -1,3 +1,4 @@
+*.sql linguist-detectable
 *.ipynb linguist-documentation
 pull/*.xls linguist-vendored
 seeds/*.csv linguist-vendored
