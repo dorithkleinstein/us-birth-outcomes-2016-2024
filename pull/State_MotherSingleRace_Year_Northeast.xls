@@ -224,15 +224,15 @@
 	"Maine"	"23"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2013"	"2013"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race
 	"Maine"	"23"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2014"	"2014"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race
 	"Maine"	"23"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2015"	"2015"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race
-	"Maine"	"23"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2016"	"2016"	Suppressed	3345.33	306.29	25.67	4.50	39.67	0.47
-	"Maine"	"23"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2017"	"2017"	Suppressed	3638.50	389.82	24.00	4.95	39.75	1.09
-	"Maine"	"23"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	Suppressed	3593.67	381.71	30.00	4.55	41.33	0.47
-	"Maine"	"23"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	Suppressed	2996.00	606.60	27.71	3.95	37.57	6.02
-	"Maine"	"23"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	Suppressed	3408.40	473.40	22.80	4.26	39.00	2.68
-	"Maine"	"23"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021"	"2021"	Suppressed	3801.50	761.16	27.75	4.71	38.88	2.67
-	"Maine"	"23"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022"	"2022"	Suppressed	3474.50	437.92	25.17	4.67	38.50	1.38
-	"Maine"	"23"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2023"	"2023"	Suppressed	3432.57	293.57	24.43	3.85	40.00	1.20
-	"Maine"	"23"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2024"	"2024"	Suppressed	3521.25	784.56	30.62	4.82	39.38	1.41
+	"Maine"	"23"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2016"	"2016"	Suppressed						
+	"Maine"	"23"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2017"	"2017"	Suppressed						
+	"Maine"	"23"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	Suppressed						
+	"Maine"	"23"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	Suppressed						
+	"Maine"	"23"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	Suppressed						
+	"Maine"	"23"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021"	"2021"	Suppressed						
+	"Maine"	"23"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022"	"2022"	Suppressed						
+	"Maine"	"23"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2023"	"2023"	Suppressed						
+	"Maine"	"23"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2024"	"2024"	Suppressed						
 	"Maine"	"23"	"White"	"2106-3"	"2007"	"2007"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race
 	"Maine"	"23"	"White"	"2106-3"	"2008"	"2008"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race
 	"Maine"	"23"	"White"	"2106-3"	"2009"	"2009"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race
@@ -548,15 +548,15 @@
 	"New Hampshire"	"33"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2013"	"2013"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race
 	"New Hampshire"	"33"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2014"	"2014"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race
 	"New Hampshire"	"33"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2015"	"2015"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race
-	"New Hampshire"	"33"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2016"	"2016"	Suppressed	2940.80	394.97	33.60	3.72	39.20	0.40
-	"New Hampshire"	"33"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2017"	"2017"	Suppressed	3143.00	301.40	36.17	5.05	38.67	2.05
+	"New Hampshire"	"33"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2016"	"2016"	Suppressed						
+	"New Hampshire"	"33"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2017"	"2017"	Suppressed						
 	"New Hampshire"	"33"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	10	3316.40	463.13	30.30	5.92	38.90	1.81
 	"New Hampshire"	"33"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	10	3461.50	426.01	27.40	6.51	38.60	2.11
 	"New Hampshire"	"33"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	22	3054.73	556.97	27.50	4.76	37.59	1.92
 	"New Hampshire"	"33"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021"	"2021"	11	3312.45	375.27	29.09	5.40	39.55	1.23
 	"New Hampshire"	"33"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022"	"2022"	11	3197.45	499.66	29.82	6.83	39.36	2.27
 	"New Hampshire"	"33"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2023"	"2023"	13	3311.00	440.37	27.77	3.07	38.38	2.73
-	"New Hampshire"	"33"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2024"	"2024"	Suppressed	3385.44	359.35	28.78	4.21	39.11	1.79
+	"New Hampshire"	"33"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2024"	"2024"	Suppressed						
 	"New Hampshire"	"33"	"White"	"2106-3"	"2007"	"2007"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race
 	"New Hampshire"	"33"	"White"	"2106-3"	"2008"	"2008"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race
 	"New Hampshire"	"33"	"White"	"2106-3"	"2009"	"2009"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race
@@ -1358,15 +1358,15 @@
 	"Vermont"	"50"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2013"	"2013"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race
 	"Vermont"	"50"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2014"	"2014"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race
 	"Vermont"	"50"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2015"	"2015"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race
-	"Vermont"	"50"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2016"	"2016"	Suppressed	3495.00	515.00	24.00	5.00	36.50	2.50
-	"Vermont"	"50"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2017"	"2017"	Suppressed	3344.00	266.19	22.67	5.25	40.33	0.47
-	"Vermont"	"50"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	Suppressed	3717.00	0.00	32.00	0.00	36.00	0.00
-	"Vermont"	"50"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	Suppressed	3435.00	0.00	21.00	0.00	39.00	0.00
-	"Vermont"	"50"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	Suppressed	3263.00	0.00	31.00	0.00	43.00	0.00
-	"Vermont"	"50"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021"	"2021"	Suppressed	2614.00	0.00	32.00	0.00	38.00	0.00
+	"Vermont"	"50"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2016"	"2016"	Suppressed						
+	"Vermont"	"50"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2017"	"2017"	Suppressed						
+	"Vermont"	"50"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	Suppressed						
+	"Vermont"	"50"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	Suppressed						
+	"Vermont"	"50"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	Suppressed						
+	"Vermont"	"50"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021"	"2021"	Suppressed						
 	"Vermont"	"50"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022"	"2022"	0	0.00	0.00	0.00	0.00	0.00	0.00
-	"Vermont"	"50"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2023"	"2023"	Suppressed	2918.00	870.69	33.60	3.61	38.40	3.07
-	"Vermont"	"50"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2024"	"2024"	Suppressed	3295.67	435.29	34.00	7.87	36.67	4.03
+	"Vermont"	"50"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2023"	"2023"	Suppressed						
+	"Vermont"	"50"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2024"	"2024"	Suppressed						
 	"Vermont"	"50"	"White"	"2106-3"	"2007"	"2007"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race
 	"Vermont"	"50"	"White"	"2106-3"	"2008"	"2008"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race
 	"Vermont"	"50"	"White"	"2106-3"	"2009"	"2009"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race

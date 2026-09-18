@@ -64,6 +64,8 @@ Two reasons, both in the caveats printed at the bottom of every extract in `pull
 
 **Suppressed cells are kept, not dropped and not zero-filled.** CDC suppresses any cell with fewer than 10 births. Those rows stay in the fact tables with `births` set to NULL and `is_suppressed` set to TRUE, so a reader can see where the data is absent instead of inferring it from a gap. They are excluded from weighted averages by the `where not is_suppressed` filter, not by being deleted.
 
+WONDER withholds the count on those cells but still returns the averages, and where a cell holds a single birth the average is that birth's own value. Those derived measures are emptied here and in `pull/`, which changes no published figure because nothing ever read them. `pull/README.md` records exactly what was emptied and why.
+
 **Thin cells are flagged separately from suppressed ones.** `is_reliable` is TRUE at 25 births or more. The five-way table, state by race by education by age by year, produces many cells that clear CDC's suppression threshold and are still too small to average meaningfully. Suppression is CDC's judgement; reliability is mine, and they are different columns for that reason.
 
 **Group averages are labelled as group averages.** `is_low_birth_weight_avg` is TRUE when a group's *average* is below 2,500g. It does not mean the babies in that group were individually low birth weight, and the column description says so, because that is exactly the error a reader makes at a glance.

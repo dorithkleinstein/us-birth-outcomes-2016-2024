@@ -80,15 +80,15 @@ Northeast,Maine,23,Black or African American,2021,564,3255.54,603.78,30.96,5.85,
 Northeast,Maine,23,Black or African American,2022,705,3191.42,697.80,31.15,5.70,38.19,3.06
 Northeast,Maine,23,Black or African American,2023,811,3249.85,629.67,30.88,5.80,38.33,2.71
 Northeast,Maine,23,Black or African American,2024,831,3194.44,683.39,31.14,5.68,38.23,2.97
-Northeast,Maine,23,Native Hawaiian or Other Pacific Islander,2016,,3345.33,306.29,25.67,4.50,39.67,0.47
-Northeast,Maine,23,Native Hawaiian or Other Pacific Islander,2017,,3638.50,389.82,24.00,4.95,39.75,1.09
-Northeast,Maine,23,Native Hawaiian or Other Pacific Islander,2018,,3593.67,381.71,30.00,4.55,41.33,0.47
-Northeast,Maine,23,Native Hawaiian or Other Pacific Islander,2019,,2996.00,606.60,27.71,3.95,37.57,6.02
-Northeast,Maine,23,Native Hawaiian or Other Pacific Islander,2020,,3408.40,473.40,22.80,4.26,39.00,2.68
-Northeast,Maine,23,Native Hawaiian or Other Pacific Islander,2021,,3801.50,761.16,27.75,4.71,38.88,2.67
-Northeast,Maine,23,Native Hawaiian or Other Pacific Islander,2022,,3474.50,437.92,25.17,4.67,38.50,1.38
-Northeast,Maine,23,Native Hawaiian or Other Pacific Islander,2023,,3432.57,293.57,24.43,3.85,40.00,1.20
-Northeast,Maine,23,Native Hawaiian or Other Pacific Islander,2024,,3521.25,784.56,30.62,4.82,39.38,1.41
+Northeast,Maine,23,Native Hawaiian or Other Pacific Islander,2016,,,,,,,
+Northeast,Maine,23,Native Hawaiian or Other Pacific Islander,2017,,,,,,,
+Northeast,Maine,23,Native Hawaiian or Other Pacific Islander,2018,,,,,,,
+Northeast,Maine,23,Native Hawaiian or Other Pacific Islander,2019,,,,,,,
+Northeast,Maine,23,Native Hawaiian or Other Pacific Islander,2020,,,,,,,
+Northeast,Maine,23,Native Hawaiian or Other Pacific Islander,2021,,,,,,,
+Northeast,Maine,23,Native Hawaiian or Other Pacific Islander,2022,,,,,,,
+Northeast,Maine,23,Native Hawaiian or Other Pacific Islander,2023,,,,,,,
+Northeast,Maine,23,Native Hawaiian or Other Pacific Islander,2024,,,,,,,
 Northeast,Maine,23,White,2016,11705,3370.29,594.53,28.66,5.51,38.95,2.33
 Northeast,Maine,23,White,2017,11177,3347.33,594.62,28.83,5.49,38.87,2.32
 Northeast,Maine,23,White,2018,11237,3347.05,587.57,29.05,5.44,38.85,2.32
@@ -188,15 +188,15 @@ Northeast,New Hampshire,33,Black or African American,2021,372,3191.85,684.52,29.
 Northeast,New Hampshire,33,Black or African American,2022,353,3234.98,624.41,29.93,5.93,38.56,2.58
 Northeast,New Hampshire,33,Black or African American,2023,382,3175.45,607.65,30.34,5.99,38.60,2.63
 Northeast,New Hampshire,33,Black or African American,2024,339,3234.90,620.72,30.87,5.97,38.44,2.80
-Northeast,New Hampshire,33,Native Hawaiian or Other Pacific Islander,2016,,2940.80,394.97,33.60,3.72,39.20,0.40
-Northeast,New Hampshire,33,Native Hawaiian or Other Pacific Islander,2017,,3143.00,301.40,36.17,5.05,38.67,2.05
+Northeast,New Hampshire,33,Native Hawaiian or Other Pacific Islander,2016,,,,,,,
+Northeast,New Hampshire,33,Native Hawaiian or Other Pacific Islander,2017,,,,,,,
 Northeast,New Hampshire,33,Native Hawaiian or Other Pacific Islander,2018,10,3316.40,463.13,30.30,5.92,38.90,1.81
 Northeast,New Hampshire,33,Native Hawaiian or Other Pacific Islander,2019,10,3461.50,426.01,27.40,6.51,38.60,2.11
 Northeast,New Hampshire,33,Native Hawaiian or Other Pacific Islander,2020,22,3054.73,556.97,27.50,4.76,37.59,1.92
 Northeast,New Hampshire,33,Native Hawaiian or Other Pacific Islander,2021,11,3312.45,375.27,29.09,5.40,39.55,1.23
 Northeast,New Hampshire,33,Native Hawaiian or Other Pacific Islander,2022,11,3197.45,499.66,29.82,6.83,39.36,2.27
 Northeast,New Hampshire,33,Native Hawaiian or Other Pacific Islander,2023,13,3311.00,440.37,27.77,3.07,38.38,2.73
-Northeast,New Hampshire,33,Native Hawaiian or Other Pacific Islander,2024,,3385.44,359.35,28.78,4.21,39.11,1.79
+Northeast,New Hampshire,33,Native Hawaiian or Other Pacific Islander,2024,,,,,,,
 Northeast,New Hampshire,33,White,2016,11288,3373.26,579.91,29.50,5.38,39.05,2.30
 Northeast,New Hampshire,33,White,2017,11154,3350.66,587.01,29.59,5.29,38.99,2.27
 Northeast,New Hampshire,33,White,2018,10997,3362.93,585.03,29.82,5.31,38.95,2.31
@@ -458,15 +458,15 @@ Northeast,Vermont,50,Black or African American,2021,152,3240.62,709.65,30.41,5.6
 Northeast,Vermont,50,Black or African American,2022,126,3240.50,615.54,30.94,5.80,38.72,2.46
 Northeast,Vermont,50,Black or African American,2023,133,3303.88,558.89,29.84,5.25,38.76,2.23
 Northeast,Vermont,50,Black or African American,2024,155,3199.13,617.57,29.71,6.26,38.29,2.61
-Northeast,Vermont,50,Native Hawaiian or Other Pacific Islander,2016,,3495.00,515.00,24.00,5.00,36.50,2.50
-Northeast,Vermont,50,Native Hawaiian or Other Pacific Islander,2017,,3344.00,266.19,22.67,5.25,40.33,0.47
-Northeast,Vermont,50,Native Hawaiian or Other Pacific Islander,2018,,3717.00,0.00,32.00,0.00,36.00,0.00
-Northeast,Vermont,50,Native Hawaiian or Other Pacific Islander,2019,,3435.00,0.00,21.00,0.00,39.00,0.00
-Northeast,Vermont,50,Native Hawaiian or Other Pacific Islander,2020,,3263.00,0.00,31.00,0.00,43.00,0.00
-Northeast,Vermont,50,Native Hawaiian or Other Pacific Islander,2021,,2614.00,0.00,32.00,0.00,38.00,0.00
+Northeast,Vermont,50,Native Hawaiian or Other Pacific Islander,2016,,,,,,,
+Northeast,Vermont,50,Native Hawaiian or Other Pacific Islander,2017,,,,,,,
+Northeast,Vermont,50,Native Hawaiian or Other Pacific Islander,2018,,,,,,,
+Northeast,Vermont,50,Native Hawaiian or Other Pacific Islander,2019,,,,,,,
+Northeast,Vermont,50,Native Hawaiian or Other Pacific Islander,2020,,,,,,,
+Northeast,Vermont,50,Native Hawaiian or Other Pacific Islander,2021,,,,,,,
 Northeast,Vermont,50,Native Hawaiian or Other Pacific Islander,2022,0,0.00,0.00,0.00,0.00,0.00,0.00
-Northeast,Vermont,50,Native Hawaiian or Other Pacific Islander,2023,,2918.00,870.69,33.60,3.61,38.40,3.07
-Northeast,Vermont,50,Native Hawaiian or Other Pacific Islander,2024,,3295.67,435.29,34.00,7.87,36.67,4.03
+Northeast,Vermont,50,Native Hawaiian or Other Pacific Islander,2023,,,,,,,
+Northeast,Vermont,50,Native Hawaiian or Other Pacific Islander,2024,,,,,,,
 Northeast,Vermont,50,White,2016,5404,3362.69,601.01,29.37,5.62,39.07,2.40
 Northeast,Vermont,50,White,2017,5274,3360.75,590.91,29.48,5.56,39.09,2.33
 Northeast,Vermont,50,White,2018,5072,3352.78,591.14,29.66,5.52,39.01,2.37
@@ -1269,8 +1269,8 @@ South,Delaware,10,Black or African American,2022,3145,3075.36,648.71,28.82,6.20,
 South,Delaware,10,Black or African American,2023,2987,3087.38,639.79,29.18,6.35,38.33,3.05
 South,Delaware,10,Black or African American,2024,3049,3079.45,660.09,29.30,6.34,38.26,3.23
 South,Delaware,10,Native Hawaiian or Other Pacific Islander,2016,12,3316.67,811.83,30.42,6.87,38.58,2.29
-South,Delaware,10,Native Hawaiian or Other Pacific Islander,2017,,3143.12,545.18,28.38,5.76,37.50,2.50
-South,Delaware,10,Native Hawaiian or Other Pacific Islander,2018,,3289.00,410.62,30.29,7.40,38.57,1.59
+South,Delaware,10,Native Hawaiian or Other Pacific Islander,2017,,,,,,,
+South,Delaware,10,Native Hawaiian or Other Pacific Islander,2018,,,,,,,
 South,Delaware,10,Native Hawaiian or Other Pacific Islander,2019,27,3034.48,684.12,27.22,7.92,37.85,3.71
 South,Delaware,10,Native Hawaiian or Other Pacific Islander,2020,18,3124.56,802.36,31.83,7.43,37.67,4.58
 South,Delaware,10,Native Hawaiian or Other Pacific Islander,2021,13,3096.85,636.67,29.00,5.60,38.23,2.89
@@ -1326,11 +1326,11 @@ South,District of Columbia,11,Native Hawaiian or Other Pacific Islander,2016,19,
 South,District of Columbia,11,Native Hawaiian or Other Pacific Islander,2017,26,3304.96,598.32,28.23,6.05,38.77,2.42
 South,District of Columbia,11,Native Hawaiian or Other Pacific Islander,2018,49,3263.78,538.34,28.20,6.13,38.59,2.29
 South,District of Columbia,11,Native Hawaiian or Other Pacific Islander,2019,23,3455.52,477.43,31.13,5.50,38.78,1.77
-South,District of Columbia,11,Native Hawaiian or Other Pacific Islander,2020,,3370.00,142.97,28.80,4.35,39.80,2.56
+South,District of Columbia,11,Native Hawaiian or Other Pacific Islander,2020,,,,,,,
 South,District of Columbia,11,Native Hawaiian or Other Pacific Islander,2021,13,3253.31,552.46,30.77,6.73,37.62,2.43
 South,District of Columbia,11,Native Hawaiian or Other Pacific Islander,2022,15,3262.07,826.48,30.00,6.55,38.47,1.15
 South,District of Columbia,11,Native Hawaiian or Other Pacific Islander,2023,30,3057.90,727.34,29.87,6.11,38.03,3.66
-South,District of Columbia,11,Native Hawaiian or Other Pacific Islander,2024,,2969.33,481.03,35.33,4.99,39.33,1.70
+South,District of Columbia,11,Native Hawaiian or Other Pacific Islander,2024,,,,,,,
 South,District of Columbia,11,White,2016,3657,3340.46,555.57,33.43,4.72,39.01,2.24
 South,District of Columbia,11,White,2017,3637,3352.76,555.59,33.43,4.61,38.96,2.13
 South,District of Columbia,11,White,2018,3971,3339.96,531.65,33.32,5.00,38.92,2.01
@@ -2024,15 +2024,15 @@ South,West Virginia,54,Black or African American,2021,560,3001.00,610.20,28.03,5
 South,West Virginia,54,Black or African American,2022,600,3058.24,661.65,27.98,6.01,37.84,2.82
 South,West Virginia,54,Black or African American,2023,616,2999.83,614.95,28.30,5.92,37.68,2.95
 South,West Virginia,54,Black or African American,2024,639,3031.26,632.28,28.68,5.95,37.95,3.07
-South,West Virginia,54,Native Hawaiian or Other Pacific Islander,2016,,3481.57,330.99,27.86,4.64,38.14,1.81
+South,West Virginia,54,Native Hawaiian or Other Pacific Islander,2016,,,,,,,
 South,West Virginia,54,Native Hawaiian or Other Pacific Islander,2017,14,3160.57,528.96,30.50,5.91,37.93,2.12
-South,West Virginia,54,Native Hawaiian or Other Pacific Islander,2018,,2949.71,753.91,29.29,8.53,39.86,2.80
-South,West Virginia,54,Native Hawaiian or Other Pacific Islander,2019,,3134.12,508.44,30.12,6.07,38.38,1.65
-South,West Virginia,54,Native Hawaiian or Other Pacific Islander,2020,,3474.80,604.48,31.00,8.76,38.00,1.26
-South,West Virginia,54,Native Hawaiian or Other Pacific Islander,2021,,3430.57,295.66,27.71,8.14,39.14,1.12
-South,West Virginia,54,Native Hawaiian or Other Pacific Islander,2022,,3708.00,550.90,29.00,6.71,40.25,2.28
-South,West Virginia,54,Native Hawaiian or Other Pacific Islander,2023,,3417.56,522.34,27.67,7.41,36.78,3.55
-South,West Virginia,54,Native Hawaiian or Other Pacific Islander,2024,,3679.50,329.12,26.00,2.83,38.75,1.09
+South,West Virginia,54,Native Hawaiian or Other Pacific Islander,2018,,,,,,,
+South,West Virginia,54,Native Hawaiian or Other Pacific Islander,2019,,,,,,,
+South,West Virginia,54,Native Hawaiian or Other Pacific Islander,2020,,,,,,,
+South,West Virginia,54,Native Hawaiian or Other Pacific Islander,2021,,,,,,,
+South,West Virginia,54,Native Hawaiian or Other Pacific Islander,2022,,,,,,,
+South,West Virginia,54,Native Hawaiian or Other Pacific Islander,2023,,,,,,,
+South,West Virginia,54,Native Hawaiian or Other Pacific Islander,2024,,,,,,,
 South,West Virginia,54,White,2016,17906,3244.48,603.70,26.87,5.57,38.51,2.57
 South,West Virginia,54,White,2017,17378,3247.97,609.59,27.00,5.58,38.49,2.60
 South,West Virginia,54,White,2018,17024,3249.84,603.14,27.11,5.57,38.44,2.64
@@ -2726,15 +2726,15 @@ West,Wyoming,56,Black or African American,2021,54,3054.59,457.18,28.02,5.69,38.6
 West,Wyoming,56,Black or African American,2022,66,3036.44,460.41,27.39,5.60,38.35,2.03
 West,Wyoming,56,Black or African American,2023,66,3004.64,529.63,28.18,6.39,38.53,2.18
 West,Wyoming,56,Black or African American,2024,62,3000.31,633.80,27.94,5.72,38.34,3.36
-West,Wyoming,56,Native Hawaiian or Other Pacific Islander,2016,,3241.57,617.73,26.86,2.47,39.29,1.39
-West,Wyoming,56,Native Hawaiian or Other Pacific Islander,2017,,3374.00,576.81,30.89,6.49,37.56,1.57
+West,Wyoming,56,Native Hawaiian or Other Pacific Islander,2016,,,,,,,
+West,Wyoming,56,Native Hawaiian or Other Pacific Islander,2017,,,,,,,
 West,Wyoming,56,Native Hawaiian or Other Pacific Islander,2018,16,2955.31,370.44,27.06,4.05,38.81,1.18
 West,Wyoming,56,Native Hawaiian or Other Pacific Islander,2019,12,2978.50,211.02,29.08,5.48,39.83,2.27
-West,Wyoming,56,Native Hawaiian or Other Pacific Islander,2020,,3267.25,382.76,27.88,5.37,39.38,1.22
-West,Wyoming,56,Native Hawaiian or Other Pacific Islander,2021,,3328.44,453.35,27.11,4.65,38.33,1.63
+West,Wyoming,56,Native Hawaiian or Other Pacific Islander,2020,,,,,,,
+West,Wyoming,56,Native Hawaiian or Other Pacific Islander,2021,,,,,,,
 West,Wyoming,56,Native Hawaiian or Other Pacific Islander,2022,10,3281.60,314.27,25.80,4.33,38.90,1.22
 West,Wyoming,56,Native Hawaiian or Other Pacific Islander,2023,10,2771.40,740.33,26.10,5.43,36.50,3.14
-West,Wyoming,56,Native Hawaiian or Other Pacific Islander,2024,,3351.75,460.08,27.62,5.96,40.25,2.59
+West,Wyoming,56,Native Hawaiian or Other Pacific Islander,2024,,,,,,,
 West,Wyoming,56,White,2016,6769,3211.13,548.21,27.82,5.53,38.65,2.24
 West,Wyoming,56,White,2017,6306,3197.34,536.49,28.00,5.46,38.61,2.16
 West,Wyoming,56,White,2018,5973,3172.88,545.68,28.12,5.59,38.56,2.25

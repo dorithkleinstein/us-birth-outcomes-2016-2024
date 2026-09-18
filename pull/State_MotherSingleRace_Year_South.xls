@@ -387,8 +387,8 @@
 	"Delaware"	"10"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2014"	"2014"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race
 	"Delaware"	"10"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2015"	"2015"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race
 	"Delaware"	"10"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2016"	"2016"	12	3316.67	811.83	30.42	6.87	38.58	2.29
-	"Delaware"	"10"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2017"	"2017"	Suppressed	3143.12	545.18	28.38	5.76	37.50	2.50
-	"Delaware"	"10"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	Suppressed	3289.00	410.62	30.29	7.40	38.57	1.59
+	"Delaware"	"10"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2017"	"2017"	Suppressed						
+	"Delaware"	"10"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	Suppressed						
 	"Delaware"	"10"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	27	3034.48	684.12	27.22	7.92	37.85	3.71
 	"Delaware"	"10"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	18	3124.56	802.36	31.83	7.43	37.67	4.58
 	"Delaware"	"10"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021"	"2021"	13	3096.85	636.67	29.00	5.60	38.23	2.89
@@ -552,11 +552,11 @@
 	"District of Columbia"	"11"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2017"	"2017"	26	3304.96	598.32	28.23	6.05	38.77	2.42
 	"District of Columbia"	"11"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	49	3263.78	538.34	28.20	6.13	38.59	2.29
 	"District of Columbia"	"11"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	23	3455.52	477.43	31.13	5.50	38.78	1.77
-	"District of Columbia"	"11"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	Suppressed	3370.00	142.97	28.80	4.35	39.80	2.56
+	"District of Columbia"	"11"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	Suppressed						
 	"District of Columbia"	"11"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021"	"2021"	13	3253.31	552.46	30.77	6.73	37.62	2.43
 	"District of Columbia"	"11"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022"	"2022"	15	3262.07	826.48	30.00	6.55	38.47	1.15
 	"District of Columbia"	"11"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2023"	"2023"	30	3057.90	727.34	29.87	6.11	38.03	3.66
-	"District of Columbia"	"11"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2024"	"2024"	Suppressed	2969.33	481.03	35.33	4.99	39.33	1.70
+	"District of Columbia"	"11"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2024"	"2024"	Suppressed						
 	"District of Columbia"	"11"	"White"	"2106-3"	"2007"	"2007"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race
 	"District of Columbia"	"11"	"White"	"2106-3"	"2008"	"2008"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race
 	"District of Columbia"	"11"	"White"	"2106-3"	"2009"	"2009"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race
@@ -2654,15 +2654,15 @@
 	"West Virginia"	"54"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2013"	"2013"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race
 	"West Virginia"	"54"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2014"	"2014"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race
 	"West Virginia"	"54"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2015"	"2015"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race
-	"West Virginia"	"54"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2016"	"2016"	Suppressed	3481.57	330.99	27.86	4.64	38.14	1.81
+	"West Virginia"	"54"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2016"	"2016"	Suppressed						
 	"West Virginia"	"54"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2017"	"2017"	14	3160.57	528.96	30.50	5.91	37.93	2.12
-	"West Virginia"	"54"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	Suppressed	2949.71	753.91	29.29	8.53	39.86	2.80
-	"West Virginia"	"54"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	Suppressed	3134.12	508.44	30.12	6.07	38.38	1.65
-	"West Virginia"	"54"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	Suppressed	3474.80	604.48	31.00	8.76	38.00	1.26
-	"West Virginia"	"54"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021"	"2021"	Suppressed	3430.57	295.66	27.71	8.14	39.14	1.12
-	"West Virginia"	"54"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022"	"2022"	Suppressed	3708.00	550.90	29.00	6.71	40.25	2.28
-	"West Virginia"	"54"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2023"	"2023"	Suppressed	3417.56	522.34	27.67	7.41	36.78	3.55
-	"West Virginia"	"54"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2024"	"2024"	Suppressed	3679.50	329.12	26.00	2.83	38.75	1.09
+	"West Virginia"	"54"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	Suppressed						
+	"West Virginia"	"54"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	Suppressed						
+	"West Virginia"	"54"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	Suppressed						
+	"West Virginia"	"54"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021"	"2021"	Suppressed						
+	"West Virginia"	"54"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022"	"2022"	Suppressed						
+	"West Virginia"	"54"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2023"	"2023"	Suppressed						
+	"West Virginia"	"54"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2024"	"2024"	Suppressed						
 	"West Virginia"	"54"	"White"	"2106-3"	"2007"	"2007"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race
 	"West Virginia"	"54"	"White"	"2106-3"	"2008"	"2008"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race
 	"West Virginia"	"54"	"White"	"2106-3"	"2009"	"2009"	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race	Missing Race

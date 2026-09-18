@@ -1,8 +1,18 @@
 # The CDC WONDER extracts
 
-55 files, exactly as CDC WONDER returned them. Nothing has been edited, reordered or cleaned.
+55 files, as CDC WONDER returned them, with one modification, documented below.
 
 They are here so that the pull itself is reproducible, not just the transformation. Most public data projects begin at a CSV that somebody else prepared. This one begins at a government query tool with a data use agreement, a session timeout and a result-size limit, and the way you get data out of it is a set of decisions worth showing.
+
+## The one modification
+
+On rows where CDC suppressed the births count, I have also emptied the six derived measures: average birth weight, average age of mother, average LMP gestational age, and the standard deviation beside each.
+
+CDC suppresses any cell holding fewer than ten births, but returns the averages for those cells anyway. Where a cell holds a single birth the average is that birth's own value, and the standard deviation of zero says as much. CDC's stated rule is that all statistics representing one to nine births are suppressed, so emptying the measures brings these files into line with the rule printed in their own documentation.
+
+It affects 55,157 rows out of 417,231, across 54 of the 55 files. Nothing else is altered. Every row carrying a real count, every header, every footer, every file name and the line count of every file are exactly as CDC returned them. A row where the count is zero is a real zero rather than a suppression, and 284,059 of those are untouched.
+
+No figure in the analysis used those cells. Every model excludes suppressed rows with `where not is_suppressed`, so every published number was computed without them long before they were emptied.
 
 ## Why 55 files and not 2
 
