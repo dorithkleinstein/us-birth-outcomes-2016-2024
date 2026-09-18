@@ -20,7 +20,7 @@ Average birth weight fell about 25 grams nationally over the nine years, and ave
 
 The structure underneath them did not. The gap between the states with the best and worst outcomes is the same size at the end of the period as at the start. The gap between racial groups within a state is the same size. Education tracks birth weight in the same direction, with the same spacing, in 2024 as in 2016. A national trend moved every group at once without rearranging any of them.
 
-A later piece, [Babies are not smaller. They are arriving earlier.](https://www.linkedin.com/feed/update/urn:li:activity:7505263487837896706/), takes the weight decline apart. At every gestational age from 36 to 41 weeks a baby weighs almost exactly what it did in 2016. What changed is when babies arrive: 37-week births rose from 8.8% to 12.4% of singletons, every year, without a single reversal. The weight decline is a timing effect.
+A later piece, [Babies are not smaller. They are arriving earlier.](https://www.linkedin.com/feed/update/urn:li:activity:7505263487837896706/) takes the weight decline apart. At every gestational age from 36 to 41 weeks a baby weighs almost exactly what it did in 2016. What changed is when babies arrive: 37-week births rose from 8.8% to 12.4% of singletons, every year, without a single reversal. The weight decline is a timing effect.
 
 ## A correction, 10 September 2026
 
@@ -73,7 +73,7 @@ WONDER withholds the count on those cells but still returns the averages, and wh
 ## Layout
 
 ```
-models/staging/     5 models, materialized as views
+models/staging/     4 models, materialized as views
 models/marts/       6 models, materialized as tables
 models/*/schema.yml column descriptions and tests
 seeds/              6 CSVs loaded by dbt seed
