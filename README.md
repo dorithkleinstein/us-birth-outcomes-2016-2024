@@ -2,7 +2,7 @@
 
 A dbt project over CDC WONDER natality data, covering every US state across nine years, by mother's race, education and age cohort.
 
-This is the pipeline behind a published analysis. The written piece is [The averages moved. The structure did not.](https://www.linkedin.com/pulse/averages-moved-structure-did-dorith-kleinstein-zjamf) and the interactive report is [US Birth Outcomes 2016-2024](https://datastudio.google.com/reporting/67893ee7-9da4-4c9b-ab32-6f7903caed08), which opens without a Google account.
+This is the pipeline behind a published analysis. The written piece is [The averages moved. The structure did not.](https://dorithkleinstein.com/en/articles/us-birth-outcomes-2016-2024/), also [on LinkedIn](https://www.linkedin.com/pulse/averages-moved-structure-did-dorith-kleinstein-zjamf), and the interactive report is [US Birth Outcomes 2016-2024](https://datastudio.google.com/reporting/67893ee7-9da4-4c9b-ab32-6f7903caed08), which opens without a Google account.
 
 Everything here is reproducible. The source extracts, the seeds, the models and the tests are all in this repository, so `dbt build` rebuilds the entire warehouse in your own project from the original government files.
 
@@ -20,7 +20,7 @@ Average birth weight fell about 25 grams nationally over the nine years, and ave
 
 The structure underneath them did not. The gap between the states with the best and worst outcomes is the same size at the end of the period as at the start. The gap between racial groups within a state is the same size. Education tracks birth weight in the same direction, with the same spacing, in 2024 as in 2016. A national trend moved every group at once without rearranging any of them.
 
-A later piece, [Babies are not smaller. They are arriving earlier.](https://www.linkedin.com/feed/update/urn:li:activity:7505263487837896706/) takes the weight decline apart. At every gestational age from 36 to 41 weeks a baby weighs almost exactly what it did in 2016. What changed is when babies arrive: 37-week births rose from 8.8% to 12.4% of singletons, every year, without a single reversal. The weight decline is a timing effect.
+A later piece, [Babies are not smaller. They are arriving earlier.](https://dorithkleinstein.com/en/articles/babies-are-not-smaller/), also [on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7505263487837896706/), takes the weight decline apart. At every gestational age from 36 to 41 weeks a baby weighs almost exactly what it did in 2016. What changed is when babies arrive: 37-week births rose from 8.8% to 12.4% of singletons, every year, without a single reversal. The weight decline is a timing effect.
 
 ## A correction, 10 September 2026
 
@@ -109,4 +109,4 @@ Extracts were pulled in May 2026. Query dates are printed in each file.
 
 ## Author
 
-Dorith Kleinstein, [linkedin.com/in/dorithkleinstein](https://www.linkedin.com/in/dorithkleinstein), dorithkleinstein@gmail.com
+Dorith Kleinstein, [dorithkleinstein.com](https://dorithkleinstein.com/en/), [linkedin.com/in/dorithkleinstein](https://www.linkedin.com/in/dorithkleinstein), dorithkleinstein@gmail.com
